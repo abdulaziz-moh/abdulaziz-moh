@@ -1,26 +1,12 @@
 ## Hi there 👋
 
-<!--
-**abdulaziz-moh/abdulaziz-moh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 🏄‍♂️ Abdulaziz Mohammed
 
-**Software Engineering Student (HTML, CSS, JavaScript, PHP, Python, C++, Java)**
+**Software Engineering Student | Backend Developer (Django, MySQL, Python, JavaScript, PHP, C++, Java)**
 
-I'm an Ethiopian software engineering student at AASTU and backend developer at ALX.  
-Passionate about building robust systems, solving complex problems, and always eager to learn and collaborate.  
-🏆 Presidential Award recipient | ⚽ Football enthusiast
+I'm an Ethiopian software engineering student at **AASTU** and a **Backend Development graduate from ALX**.  
+Passionate about building scalable backend systems, solving complex problems, and always eager to learn and collaborate.  
+🏆 **Presidential Award recipient** | ⚽ **Football enthusiast**
 
 ---
 
@@ -31,6 +17,8 @@ Passionate about building robust systems, solving complex problems, and always e
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat-square)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=fff&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat-square)
@@ -67,12 +55,8 @@ Passionate about building robust systems, solving complex problems, and always e
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulaziz--mohs-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/abdulaziz-mohs/)  
-📧 Email: accoabdulazizmohammed@gmail.com
+📧 Email: **accoabdulazizmohammed@gmail.com**
 
 ---
-
-<!--
-**Fun Fact:** I’m a huge football fan and love playing the sport in my free time!
--->
 
 > “I have a keen interest in finding creative solutions to complex problems, which drives my passion for software engineering.”
