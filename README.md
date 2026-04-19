@@ -9,7 +9,7 @@
 I am passionate about building scalable backend systems, designing clean architectures, and solving complex algorithmic problems.  
 My long-term goal is to build impactful systems that improve transparency and efficiency in real-world institutions.
 
----
+<img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/8345b2ce-3697-4576-bfd8-57e34b629d12" />
 
 ## 🛠️ Tech Stack
 
