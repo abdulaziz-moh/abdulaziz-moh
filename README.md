@@ -1,15 +1,18 @@
 # 👋 Hi, I'm Abdulaziz Mohammed
 
-## 🚀 Software Engineering Student | Backend Developer
+## 🚀 Software Engineering Student | Backend Developer | A2SVian
 
 🎓 Software Engineering Student at **Addis Ababa Science and Technology University (AASTU)**  
 🎓 Backend Development Graduate from **ALX**  
+🧠 **A2SVian** — Active student at **A2SV (Africa to Silicon Valley)**  
 🏆 Presidential Award Recipient for Academic Excellence  
 
 I am passionate about building scalable backend systems, designing clean architectures, and solving complex algorithmic problems.  
+At **A2SV**, I continuously strengthen my Data Structures and Algorithms skills while sharpening my problem-solving mindset.
+
 My long-term goal is to build impactful systems that improve transparency and efficiency in real-world institutions.
 
-<img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/8345b2ce-3697-4576-bfd8-57e34b629d12" />
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +32,7 @@ My long-term goal is to build impactful systems that improve transparency and ef
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 
----
+<img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/8345b2ce-3697-4576-bfd8-57e34b629d12" />
 
 ## 📊 GitHub Stats
 
@@ -39,7 +42,7 @@ My long-term goal is to build impactful systems that improve transparency and ef
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz-moh&layout=compact&theme=react&hide_border=true)
 
----
+<img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/8345b2ce-3697-4576-bfd8-57e34b629d12" />
 
 ## 📌 Featured Project
 
@@ -47,22 +50,30 @@ My long-term goal is to build impactful systems that improve transparency and ef
 
 [![Featured Project](https://github-readme-stats.vercel.app/api/pin/?username=abdulaziz-moh&repo=your-repository-name&theme=react&hide_border=true)](https://github.com/abdulaziz-moh/your-repository-name)
 
----
+<img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/8345b2ce-3697-4576-bfd8-57e34b629d12" />
 
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulaziz-moh&theme=react-dark&hide_border=true)
 
----
+<img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/8345b2ce-3697-4576-bfd8-57e34b629d12" />
+
+## 📊 Activity Overview
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulaziz-moh&theme=react)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulaziz-moh&theme=react)
+
+<img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/8345b2ce-3697-4576-bfd8-57e34b629d12" />
 
 ## 🎯 Current Focus
 
-- 🧠 Advanced Data Structures & Algorithms  
+- 🧠 Advanced Data Structures & Algorithms (A2SV)  
 - 🏗️ Scalable Backend Architecture  
 - 🔐 Secure and Transparent System Design  
 - ⚡ Performance Optimization  
 
----
+<img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/8345b2ce-3697-4576-bfd8-57e34b629d12" />
 
 ## 🌍 Connect With Me
 
@@ -70,6 +81,6 @@ My long-term goal is to build impactful systems that improve transparency and ef
 
 📧 **Email:** accoabdulazizmohammed@gmail.com  
 
----
+<img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/8345b2ce-3697-4576-bfd8-57e34b629d12" />
 
 > I focus on consistent progress.
