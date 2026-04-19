@@ -72,5 +72,4 @@ My long-term goal is to build impactful systems that improve transparency and ef
 
 ---
 
-> “Best is the enemy of good.”  
-> I focus on consistent progress over perfection.
+> I focus on consistent progress.
