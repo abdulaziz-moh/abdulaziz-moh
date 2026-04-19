@@ -12,7 +12,7 @@ At **A2SV**, I continuously strengthen my Data Structures and Algorithms skills 
 
 My long-term goal is to build impactful systems that improve transparency and efficiency in real-world institutions.
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🛠️ Tech Stack
 
